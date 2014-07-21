@@ -1,4 +1,4 @@
-test
+Servidor PvPCraft
 ====
 
-test
+Este Servidor Sera Mas PVP que Survival Y Otras Cosas, Tampoco Pondremos Demaciados Minijuegos.
